@@ -1,0 +1,41 @@
+Manifest-Version: 1.0
+Class-Path: thymeleaf-extras-shiro-1.2.1.jar mysql-connector-java-5.1.
+ 44.jar guice-3.0.jar thymeleaf-2.1.6.RELEASE.jar mybatis-spring-boot-
+ autoconfigure-1.3.1.jar hutool-all-4.1.19.jar shiro-web-1.3.1.jar com
+ mons-lang3-3.6.jar springfox-swagger-common-2.6.1.jar ehcache-core-2.
+ 5.0.jar log4j-slf4j-impl-2.7.jar tomcat-embed-core-8.5.23.jar springf
+ ox-spi-2.6.1.jar shiro-all-1.3.1.jar springfox-swagger-ui-2.6.1.jar j
+ ackson-annotations-2.8.0.jar guava-18.0.jar tomcat-embed-websocket-8.
+ 5.23.jar mybatis-spring-boot-starter-1.3.1.jar guice-multibindings-3.
+ 0.jar springfox-spring-web-2.6.1.jar spring-boot-starter-web-1.5.9.RE
+ LEASE.jar commons-codec-1.11.jar tomcat-juli-8.5.23.jar spring-boot-s
+ tarter-log4j2-1.5.9.RELEASE.jar httpcore-4.4.8.jar classmate-1.3.4.ja
+ r swagger-models-1.5.10.jar mybatis-spring-1.3.1.jar spring-core-4.3.
+ 13.RELEASE.jar shiro-guice-1.3.1.jar pagehelper-5.1.2.jar commons-bea
+ nutils-1.9.3.jar spring-context-4.3.13.RELEASE.jar spring-boot-starte
+ r-tomcat-1.5.9.RELEASE.jar oval-1.86.jar jcl-over-slf4j-1.7.25.jar sp
+ ring-aop-4.3.13.RELEASE.jar spring-web-4.3.13.RELEASE.jar spring-boot
+ -starter-jdbc-1.5.9.RELEASE.jar thymeleaf-layout-dialect-1.4.0.jar jb
+ oss-logging-3.3.1.Final.jar shiro-ehcache-1.2.6.jar log4j-api-2.7.jar
+  jackson-core-2.8.10.jar tomcat-annotations-api-8.5.23.jar spring-boo
+ t-devtools-1.5.9.RELEASE.jar mybatis-3.4.5.jar log4j-core-2.7.jar map
+ struct-1.0.0.Final.jar commons-collections-3.2.2.jar jackson-databind
+ -2.8.10.jar slf4j-api-1.7.25.jar spring-plugin-metadata-1.2.0.RELEASE
+ .jar javassist-3.21.0-GA.jar validation-api-1.1.0.Final.jar spring-jd
+ bc-4.3.13.RELEASE.jar spring-webmvc-4.3.13.RELEASE.jar snakeyaml-1.17
+ .jar hibernate-validator-5.3.6.Final.jar ognl-3.0.8.jar springfox-swa
+ gger2-2.6.1.jar unbescape-1.1.0.RELEASE.jar shiro-core-1.3.1.jar java
+ x.inject-1.jar spring-context-support-4.3.13.RELEASE.jar aopalliance-
+ 1.0.jar tomcat-embed-el-8.5.23.jar pagehelper-spring-boot-starter-1.2
+ .3.jar httpclient-4.5.3.jar spring-tx-4.3.13.RELEASE.jar spring-boot-
+ starter-thymeleaf-1.5.9.RELEASE.jar tomcat-jdbc-8.5.23.jar spring-bea
+ ns-4.3.13.RELEASE.jar swagger-annotations-1.5.10.jar spring-boot-auto
+ configure-1.5.9.RELEASE.jar jsqlparser-1.0.jar pagehelper-spring-boot
+ -autoconfigure-1.2.3.jar groovy-2.4.13.jar springfox-schema-2.6.1.jar
+  spring-expression-4.3.13.RELEASE.jar druid-1.1.5.jar jul-to-slf4j-1.
+ 7.25.jar httpmime-4.5.3.jar springfox-core-2.6.1.jar spring-boot-1.5.
+ 9.RELEASE.jar spring-plugin-core-1.2.0.RELEASE.jar shiro-spring-1.3.1
+ .jar spring-boot-starter-1.5.9.RELEASE.jar thymeleaf-spring4-2.1.6.RE
+ LEASE.jar commons-io-2.5.jar
+Main-Class: com.wyait.manage.WyaitManageApplication
+
